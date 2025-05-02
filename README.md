@@ -1,5 +1,5 @@
 ## 👋 欢迎来到我的 GitHub 主页!   
-我是lymhy，一名对生活与技术充满热情的学者。我热衷于探索新兴技术，构建有趣的项目，并通过开源与社区分享知识。      
+### 🤗我是lymhy，一名对生活与技术充满热情的学者，热衷于探索新兴技术，构建有趣的项目，并通过开源与社区分享知识。      
 📫 联系方式: lymhy@xx.com    
 🔗 个人网站/博客: www.520690.xyz        
 🚀 关于我      
@@ -16,7 +16,7 @@
  ![](https://img.shields.io/badge/自媒体-FFFFFF?style=for-the-badge)
 
 
-🛠️ 技术栈      
+### 🛠️ 技术栈      
 
 <p align="left">
     <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python">
@@ -41,7 +41,7 @@
 </p>
 
 
-🤝 联系与合作    
+### 🤝 联系与合作    
     欢迎联系我，聊聊技术、项目或任何有趣的想法！😄  
 ✨ 感谢访问我的主页！ 如果你喜欢我的工作，欢迎给我的项目点个 ⭐！    
 
