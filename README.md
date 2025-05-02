@@ -10,7 +10,7 @@
 - 💡 热衷于 解决问题、编写优雅代码
 - ⚡ 趣闻: 喜欢徒步旅行
 - 🛠️ 技术栈
-以下是我常用的技术、工具和语言：
+
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
@@ -20,7 +20,7 @@
 
 
 
-- 🛠️ 技术栈: 
+
 
 - 📊 GitHub 数据
 <p align="center">
