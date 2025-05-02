@@ -27,7 +27,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=lymhhy&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lymhhy&layout=compact&theme=radical" alt="Top Languages">
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lymhy&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lymhy&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
 
 - 🤝 联系与合作
 欢迎联系我，聊聊技术、项目或任何有趣的想法！😄
 - ✨ 感谢访问我的主页！ 如果你喜欢我的工作，欢迎给我的项目点个 ⭐！
+
+
+
