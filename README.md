@@ -1,4 +1,3 @@
-​​​​​​​![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lymhy&show_icons=true)
 👋 欢迎来到我的 GitHub 主页！  
 我是lymhy，一名对生活与技术充满热情的学者。我热衷于探索新兴技术，构建有趣的项目，并通过开源与社区分享知识。  
 📫 联系方式: lymhy@xx.com  
@@ -9,7 +8,14 @@
 🌱 正在学习    
 👯 希望与他人合作   
 💡 热衷于 解决问题、编写优雅代码  
-⚡ 趣闻: 喜欢徒步旅行  
+## ✨感兴趣的
+ ![](https://img.shields.io/badge/AIGC-FFFFFF?style=for-the-badge)
+ ![](https://img.shields.io/badge/移动端开发-FFFFFF?style=for-the-badge)
+ ![](https://img.shields.io/badge/应用出海-FFFFFF?style=for-the-badge)
+ ![](https://img.shields.io/badge/跨境电商-FFFFFF?style=for-the-badge)
+ ![](https://img.shields.io/badge/创业-FFFFFF?style=for-the-badge)
+ ![](https://img.shields.io/badge/自媒体-FFFFFF?style=for-the-badge)
+
 🛠️ 技术栈    
 
 <p align="left">
