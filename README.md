@@ -1,19 +1,15 @@
-#lymhy
-👋 欢迎来到我的 GitHub 主页！
-Profile Banner <!-- 可替换为自定义横幅 -->
-我是lymhy，一名对生活与技术充满热情的学者。我热衷于探索新兴技术，构建有趣的项目，并通过开源与社区分享知识。
-🌍 所在地: shanghai
-📫 联系方式: lymhy@xx.com
-联系方式: lymhy@xx.com 
-🔗 个人网站/博客: www.520690.xyz
-💼 职业: 自由职业者
-🚀 关于我
-🔭 目前在研究/开发 
-🌱 正在学习  
-👯 希望与他人合作 
-💡 热衷于 解决问题、编写优雅代码
-⚡ 趣闻: 喜欢徒步旅行
-🛠️ 技术栈
+- 👋 欢迎来到我的 GitHub 主页！
+- 我是lymhy，一名对生活与技术充满热情的学者。我热衷于探索新兴技术，构建有趣的项目，并通过开源与社区分享知识。
+- 📫 联系方式: lymhy@xx.com
+- 🔗 个人网站/博客: www.520690.xyz
+- 💼 职业: 自由职业者
+- 🚀 关于我
+- 🔭 目前在研究/开发 
+- 🌱 正在学习  
+- 👯 希望与他人合作 
+- 💡 热衷于 解决问题、编写优雅代码
+- ⚡ 趣闻: 喜欢徒步旅行
+- 🛠️ 技术栈
 以下是我常用的技术、工具和语言：
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python">
@@ -24,14 +20,14 @@ Profile Banner <!-- 可替换为自定义横幅 -->
 
 
 
-🛠️ 技术栈: 
+- 🛠️ 技术栈: 
 
-📊 GitHub 数据
+- 📊 GitHub 数据
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lymhhy&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lymhhy&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
-🤝 联系与合作
+- 🤝 联系与合作
 欢迎联系我，聊聊技术、项目或任何有趣的想法！😄
-✨ 感谢访问我的主页！ 如果你喜欢我的工作，欢迎给我的项目点个 ⭐！
+- ✨ 感谢访问我的主页！ 如果你喜欢我的工作，欢迎给我的项目点个 ⭐！
