@@ -1,11 +1,10 @@
-# showtime
 👋 欢迎来到我的 GitHub 主页！
 Profile Banner <!-- 可替换为自定义横幅图片 -->
-我是 [你的名字]，一名对 [你的领域/兴趣，如“软件开发、数据科学、人工智能”] 充满热情的开发者/创造者。我喜欢探索新技术，构建有趣的项目，并与社区分享知识。
+我是 lymhhy，一名对生活充满热情的创造者。我喜欢探索新技术，构建有趣的项目，并与社区分享知识。
 🌍 所在地: [你的城市/国家]
-📫 联系方式: [你的邮箱或社交媒体，如 hi@yourname.com]
-🔗 个人网站/博客: [你的网站链接，如 yourname.com]
-💼 职业: [你的职业或角色，如全栈开发者、学生、自由职业者]
+📫 联系方式: lymhy@yourname.com
+🔗 个人网站/博客: www.520690.xyz
+💼 职业: 自由职业者
 🚀 关于我
 🔭 目前在研究/开发 [你正在做的事情，如“基于机器学习的推荐系统”]  
 🌱 正在学习 [你正在学习的技能/技术，如“Rust 编程”或“云计算”]  
@@ -32,7 +31,6 @@ React
 
 
 
-（根据你的技能替换或添加更多徽章，可在 shields.io 或 simpleicons.org 获取图标）
 🌟 精选项目
 以下是我引以为傲的一些项目：
 [项目名称 1]
@@ -59,11 +57,7 @@ GitHub 统计
 
 
 
-（将 你的GitHub用户名 替换为你的实际用户名，可自定义主题）
 🤝 联系与合作
 📧 邮件: [your.email@example.com (mailto:your.email@example.com)]  
-🐦 X: [你的 X 账号链接，如 https://x.com/yourusername]  
-💬 LinkedIn: [你的 LinkedIn 链接，如 https://linkedin.com/in/yourusername]
- 💬 领英：[你的领英链接，如 https://linkedin.com/in/yourusername]
 欢迎联系我，聊聊技术、项目或任何有趣的想法！😄
 ✨ 感谢访问我的主页！ 如果你喜欢我的工作，欢迎给我的项目点个 ⭐！
