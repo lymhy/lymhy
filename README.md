@@ -2,13 +2,13 @@
 ### 🤗我是lymhy，一名对生活与技术充满热情的学者，热衷于探索新兴技术，构建有趣的项目，并通过开源与社区分享知识。      
 📫 联系方式: lymhy@xx.com    
 🔗 个人网站/博客: www.520690.xyz        
-🚀 关于我      
+### 🚀 关于我      
 🔭 目前在研究/开发     
 🌱 正在学习      
 👯 希望与他人合作     
 💡 热衷于 解决问题、编写优雅代码  
 ### ✨感兴趣的
- ![](https://img.shields.io/badge/AIGC-FFFFFF?style=for-the-badge)
+ ![](https://img.shields.io/badge/徒步旅行-FFFFFF?style=for-the-badge)
  ![](https://img.shields.io/badge/移动端开发-FFFFFF?style=for-the-badge)
  ![](https://img.shields.io/badge/应用出海-FFFFFF?style=for-the-badge)
  ![](https://img.shields.io/badge/跨境电商-FFFFFF?style=for-the-badge)
