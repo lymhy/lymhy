@@ -1,3 +1,29 @@
+[<img src="./static/hello.png">](https://www.liushen.fun)
+
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜></𝚌𝚘𝚍𝚎𝚛𝚜>! <img src="./static/image.gif" width="30px" alt=""><br>
+
+<a href="https://www.liushen.fun/">
+  <img align="center" alt="个人主页" width="22px" src="./static/icon/home.svg" />
+</a>
+  <a href="mailto:01@liushen.fun">
+  <img align="center" alt="柳神的邮箱" width="22px" src="./static/icon/email.svg" />
+</a>
+<a href="https://blog.liushen.fun">
+  <img align="center" alt="个人博客" width="22px" src="./static/icon/blog.svg" />
+</a>
+<a href="https://xc.liushen.fun">
+  <img align="center" alt="柳神的个人相册" width="22px" src="./static/icon/gallery.svg" />
+</a>
+<a href="https://gitee.com/willow-god">
+  <img align="center" alt="gitee首页" width="22px" src="./static/icon/gitee.svg" />
+</a>
+<a href="https://www.github.com/willow-god">
+  <img align="center" alt="github主页" width="22px" src="./static/icon/github.svg" />
+</a>
+<a href="https://mm.liushen.fun">
+  <img align="center" src="./static/icon/memos.svg" alt="提笔摘星" width="22px">
+</a>
+
 ## 👋 欢迎来到我的 GitHub 主页!   
 ### 🤗我是lymhy，一名对生活与技术充满热情的学者，热衷于探索新兴技术，构建有趣的项目，并通过开源与社区分享知识。      
 📫 联系方式: lymhy@xx.com    
